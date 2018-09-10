@@ -1,0 +1,19 @@
+{
+  "name": "@nfosterky/sorting-algorithms",
+  "version": "1.0.0",
+  "description": "An example npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nfosterky/sorting-algorithms.git"
+  },
+  "author": "nathaniel d foster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nfosterky/sorting-algorithms/issues"
+  },
+  "homepage": "https://github.com/nfosterky/sorting-algorithms#readme"
+}
